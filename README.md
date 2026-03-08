@@ -55,6 +55,21 @@
   </a>
 </div>
 
+## 📂 Projetos Restritos (Case Studies)
+
+Pela natureza ofensiva de muitas ferramentas construídas para auditoria, boa parte dos meus trabalhos está contida em repositórios privados ou protegidos. Destaques incluem:
+
+- 🔒 **`[Private] Shyyunz Injector:`** *Desenvolvimento full-stack de Executor C# e injetor de memória. Conta com proteção Anti-VM, Anti-Debug, HWID Spoofing e hook de APIs nativas via Win32.*
+- 🔒 **`[Audit] Gateway Fuzzer & Exploit:`** *Modelos de script python de stress-test contra servidores NGINX e exploração de APIs de Gateways de Pagamento via Webhooks manipulados.*
+- 🔒 **`[Analysis] LUA Env Bypasser:`** *Suite avançada de scripts em Lua que interceptam propriedades físicas, burlando detecções de servidor e substituindo mecânicas client-side de avatares virtuais.*
+
+<br/>
+
+## 🎯 Operações Atuais
+
+- **Caçando em:** Plataformas de E-Commerce & Webhooks Financeiros.
+- **Vulnerabilidades Exploradas (Writeups):** *Em Breve...*
+
 <br/>
 
 ## 📈 Táticas e Estatísticas Base
@@ -68,4 +83,17 @@
 <div align="center">
   <p><kbd>>_ printf("Trust in cryptography, not in humans.\n");</kbd></p>
   <img src="https://komarev.com/ghpvc/?username=shyyunz&label=VISITANTES&color=E94560&style=for-the-badge" alt="Profile views" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>📡 Comunicações Criptografadas</h3>
+  <br/>
+  <a href="mailto:shyyxn9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-shyyxn9%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://discordapp.com/users/shyyunz">
+    <img src="https://img.shields.io/badge/Discord-shyyunz-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 </div>
