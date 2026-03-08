@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <i>Sou um Pesquisador de Segurança e Desenvolvedor focado em dissecar e auditar tecnologias obscuras. Minha especialidade reside na intersecção entre <b>Segurança Ofensiva</b>, <b>Engenharia Reversa</b> e <b>Engenharia de Software de Alta Performance</b> — da quebra de proteções de gateways financeiros na web à injeção de processos na memória de jogos e sistemas de baixo nível.</i>
+  <i>Sou um estudante de Segurança e Desenvolvedor focado em dissecar e auditar tecnologias obscuras. Minha especialidade reside na intersecção entre <b>Segurança Ofensiva</b>, <b>Engenharia Reversa</b> e <b>Engenharia de Software de Alta Performance</b> — da quebra de proteções de gateways financeiros na web à injeção de processos na memória de jogos e sistemas de baixo nível.</i>
 </p>
 
 ---
