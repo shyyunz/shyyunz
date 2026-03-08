@@ -76,8 +76,8 @@
 ## 📈 Táticas e Estatísticas Base
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shyyunz&show_icons=true&theme=onedark&hide_border=true&bg_color=0D1117&icon_color=E94560&title_color=E94560&text_color=c9d1d9" height="192px" alt="Github Stats" />
-  <img src="https://readme-joke-render.vercel.app/api?theme=onedark&hide_border=true&bgColor=0D1117&textColor=c9d1d9&qColor=E94560&aColor=E94560" height="192px" alt="Programming Joke" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shyyunz&show_icons=true&theme=onedark&hide_border=true&bg_color=0D1117&icon_color=E94560&title_color=E94560&text_color=c9d1d9" alt="Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyyunz&layout=compact&theme=onedark&hide_border=true&bg_color=0D1117&title_color=E94560&text_color=c9d1d9" alt="Top Languages" />
 </div>
 <div align="center">
   <br/>
