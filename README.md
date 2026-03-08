@@ -42,33 +42,17 @@
 ## 🧬 Arsenal Tecnológico
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>Low-Level & Scripting</b></td>
-      <td align="center"><b>Offensive Security</b></td>
-      <td align="center"><b>Backend & Infra</b></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <br/>
-        <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" /> <br/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <br/>
-        <img src="https://img.shields.io/badge/CPP-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" /> <br/>
-        <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=Burp-Suite&logoColor=white" /> <br/>
-        <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /> <br/>
-        <img src="https://img.shields.io/badge/Rev_Engineering-E94560?style=for-the-badge&logo=hackthebox&logoColor=white" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> <br/>
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <br/>
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <br/>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      </td>
-    </tr>
-  </table>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,python,lua,cpp,nodejs,js,ts,php&perline=8" />
+  </a>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kali,linux,windows,git,bash,regex,network,sqlite&perline=8" />
+  </a>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,supabase,github,visualstudio,vscode,idea,apple,aws&perline=8" />
+  </a>
 </div>
 
 <br/>
@@ -76,11 +60,6 @@
 ## 📈 Táticas e Estatísticas Base
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shyyunz&show_icons=true&theme=onedark&hide_border=true&bg_color=0D1117&icon_color=E94560&title_color=E94560&text_color=c9d1d9" alt="Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyyunz&layout=compact&theme=onedark&hide_border=true&bg_color=0D1117&title_color=E94560&text_color=c9d1d9" alt="Top Languages" />
-</div>
-<div align="center">
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyyunz&theme=onedark&hide_border=true&background=0D1117&ring=E94560&fire=E94560&currStreakLabel=c9d1d9" alt="Github Streak" />
 </div>
 
