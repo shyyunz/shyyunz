@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f3460&height=250&section=header&text=shyyunz.exe%20--execute&fontSize=60&fontColor=e94560&animation=twinkling&desc=Cybersecurity%20Auditor%20%7C%20Reverse%20Engineer%20%7C%20Low-Level%20Dev&descAlignY=70&descAlign=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f3460&height=250&section=header&text=shyyunz&fontSize=60&fontColor=e94560&animation=twinkling&desc=Cybersecurity%20expert%20%7C%20Reverse%20Engineer%20%7C%20Low-Level%20Dev&descAlignY=70&descAlign=62" width="100%"/>
 </div>
 
 <br/>
@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <i>Sou um estudante de Segurança e Desenvolvedor focado em dissecar e auditar tecnologias obscuras. Minha especialidade reside na intersecção entre <b>Segurança Ofensiva</b>, <b>Engenharia Reversa</b> e <b>Engenharia de Software de Alta Performance</b> — da quebra de proteções de gateways financeiros na web à injeção de processos na memória de jogos e sistemas de baixo nível.</i>
+  <i>Sou um estudante de Segurança e Desenvolvedor focado em auditar tecnologias obscuras. Minha especialidade reside na intersecção entre <b>Segurança Ofensiva</b>, <b>Engenharia Reversa</b> e <b>Engenharia de Software de Alta Performance</b> — da quebra de proteções de gateways financeiros na web à injeção de processos na memória de jogos e sistemas de baixo nível.</i>
 </p>
 
 ---
