@@ -36,7 +36,7 @@ Foi desenvolvido um script para simular um ataque de inundacao de requisicoes co
 #### Script de Reproducao (Snippet)
 ```javascript
 async function floodDashboard(count) {
-    const url = 'https://pixgo.org/api/fetch_dashboard.php';
+    const url = '';
         const payload = 'user_id=XXXX&cargo=user';
             for (let i = 0; i < count; i++) {
                     fetch(url, {
