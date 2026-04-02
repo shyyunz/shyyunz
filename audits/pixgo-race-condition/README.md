@@ -1,13 +1,12 @@
 # Relatorio de Auditoria de Seguranca: PixGo.org
 ## Vulnerabilidade Critica: Double Spending via Race Condition
 
-![Banner](banner.png)
 
 ### Resumo Executivo
 Durante uma auditoria de seguranca autorizada na plataforma **PixGo.org**, foi identificada uma falha critica que permite a multiplicacao de saques pendentes. A vulnerabilidade e classificada como **Race Condition** (Condicao de Corrida), resultando em um impacto financeiro severo (perda potencial de milhoes) devido a capacidade de gerar saques infinitos a partir de um unico saldo legitimo.
 
 **Status:** Validado & Reportado  
-**Severidade:** CRITICA (9.8/10)  
+**Severidade:** CRITICA (10/10)  
 **Impacto:** Perda Financeira Ilimitada / Quebra de Logica Transacional
 
 ---
