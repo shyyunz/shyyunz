@@ -48,4 +48,5 @@ async function floodDashboard(count) {
                                                                     }
                                                                     floodDashboard(100); // Exemplo com 100 requisicoes simultaneas
                                                                     ```
-                                                                    
+
+## Todo o ocorrido e falha de sistema foi mitigado após reporta a equipe responsável que inclusive fizeram um bom trabalho ao resolver a falha                                                             
